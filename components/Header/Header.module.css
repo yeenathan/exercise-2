@@ -1,0 +1,9 @@
+.header {
+    padding: 1rem;
+}
+
+.header li {
+    list-style-type: none;
+    display: inline;
+    margin: 0px 8px;
+}
